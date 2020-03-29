@@ -1,3 +1,43 @@
 .dropdown:hover> .dropdown-menu{
 	display: block;
 }
+
+.container {
+
+}
+
+a {
+	color: white;
+}
+a:hover {
+	color: #fe346e;
+}
+.buy:hover{
+	background-color: #fe346e;
+}
+.h2 {
+    top: 15px;
+    left: 100px;
+}
+
+.heading {
+	height: 450px;
+}
+
+.service{
+	color: red;
+	width: 34px;
+	margin-bottom: 0;
+}
+.more {
+	height: 327px;
+}
+.home {
+	bottom: -80px;
+	text-align: center;
+	width: 250px;
+	height: 100px;
+    top: 265px;
+    left: 550px;
+
+}
